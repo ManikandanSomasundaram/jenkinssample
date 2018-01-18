@@ -8,6 +8,6 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		System.out.println("<<<--------Jenkins test started ---------->>>");
+		System.out.println("<<<--------Jenkins test started 1---------->>>");
 	}
 }
